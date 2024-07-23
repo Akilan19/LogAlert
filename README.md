@@ -27,7 +27,19 @@ npm i notif_log
 
 🛠️ Usage
 Using notif_log.js is as easy as pie! Replace your console.log with the below and watch the magic happen.
-- logger.init - Initialises the logger
-- logger.log - Logs the message via a Desktop Notification only
-- console.log - Logs the message via a Desktop Notification and in the browser console
-- logger.destroy - Reverts console.log to original functionality
+- Initialises the logger
+```bash
+  logger.init()
+  ```
+- Logs the message via a Desktop Notification only
+  ```bash
+  logger.log()
+  ```
+- Logs the message via a Desktop Notification and in the browser console
+  ```bash
+  console.log()
+  ```
+- Reverts console.log to original functionality
+```bash
+  logger.destroy()
+  ```
