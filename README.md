@@ -25,7 +25,7 @@ npm i notif_log
 1) include notif_log.js
 2) Initialise with logger.init()
 
-🛠️ Usage
+## 🛠️ Usage
 Using notif_log.js is as easy as pie! Replace your console.log with the below and watch the magic happen.
 - Initialises the logger
 ```bash
