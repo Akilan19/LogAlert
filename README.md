@@ -32,11 +32,11 @@ Using notif_log.js is as easy as pie! Replace your console.log with the below an
   logger.init()
   ```
 - Logs the message via a Desktop Notification only
-  ```bash
+```bash
   logger.log()
   ```
 - Logs the message via a Desktop Notification and in the browser console
-  ```bash
+```bash
   console.log()
   ```
 - Reverts console.log to original functionality
