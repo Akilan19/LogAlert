@@ -1,6 +1,8 @@
-# 🛎️ notif_log.js
+# 🛎️ LogAlert
 
 Are you tired of digging through the inspect element console to find your precious log messages? Say hello to **NotifyLog.js** – the JavaScript library that brings your logs right to your screen thru notifications!
+
+NPM link: https://www.npmjs.com/package/notif_log
 
 ## 🚀 What is notif_log.js?
 
@@ -16,9 +18,9 @@ notif_log.js is a JavaScript library that replaces those boring old and tedious 
 ## 📦 Installation
 
 Install notif_log.js using npm:
-
 ```bash
 npm i notif_log
+```
 
 1) include notif_log.js
 2) Initialise with logger.init()
